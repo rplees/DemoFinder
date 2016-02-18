@@ -15,4 +15,4 @@
 ### 截图
 - ![screen1](screen1.png 'screen1 截图')
 - ![screen2](screen2.png 'screen2 截图')
-- ![screen3](screen.p3ng 'screen3 截图')
+- ![screen3](screen3.png 'screen3 截图')
